@@ -29,7 +29,7 @@ Chtěli bychom se přiblížit jednoduchému stylu. Inspiraci jsme nalezli na t�
 7. hlavní myšlenka díla v kontextu stanice
 8. fotky a popis
 9. další audiovizuální dokumenty
-10. odkazy na rozšiřující infomrace
+10. odkazy na rozšiřující informace
 
 **Strategie zveřejňování** - jednotlivé příspěvky budou popisovat konkrétní stanici stockholmského metra. 
 
